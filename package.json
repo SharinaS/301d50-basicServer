@@ -1,0 +1,23 @@
+{
+  "name": "basic-server",
+  "version": "1.0.0",
+  "description": "basic server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SharinaS/301d50-basicServer.git"
+  },
+  "author": "Sharina Stubbs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SharinaS/301d50-basicServer/issues"
+  },
+  "homepage": "https://github.com/SharinaS/301d50-basicServer#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1"
+  }
+}
