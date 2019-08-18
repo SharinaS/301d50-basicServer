@@ -1,3 +1,46 @@
+# 301d50-basicServer with Portfolio
+# Portfolio
+All about me and my projects
+
+# Contributor
+Sharina Stubbs
+
+# App Features
+## Feature 1: Refactor the CSS
+### Timing
+Estimate of time needed to complete: 45 minutes
+
+Start time: 9:30am
+
+Finish time: 11:10am
+
+Actual time needed to complete: 1 hr, 10 min
+
+### What are we going to implement?
+* Given that a user opens the application in the browser
+* When the user navigates to the home page
+* Then t*he portfolio contents should be displayed
+
+## Feature 2: Modify Contents
+### Timing
+Estimate of time needed to complete: 1 hour
+
+Start time: 11:25am
+
+Finish time: 1:30pm
+
+Actual time needed to complete: 
+
+### What are we going to implement?
+* Given that a user opens the application in the browser
+* When the user navigates to the home page
+* Then the content should be unique and reflect the skills and personality of the developer
+
+# User Stories
+* As a user, I want the portfolio to have a clean UI so that it is visually appealing.
+* As a user, I want to view a unique portfolio so that the skills and personality of the developer are portrayed.
+
+# Web App Template downloaded from HTML5 UP
 Prologue by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
