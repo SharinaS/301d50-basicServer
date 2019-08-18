@@ -87,7 +87,7 @@
  
       #main > section.one {
         background-color: #81918E;
-        background-image: url("../../images/banner.jpg");
+        background-image: url("../../images/sunsetMtn.jpg"); /* Photo by Chad Peltola on Unsplash */
       }
  
       #main > section.two {
