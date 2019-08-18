@@ -9,28 +9,22 @@ Sharina Stubbs
 # App Features
 ## Feature 1: Refactor the CSS
 ### Timing
-Estimate of time needed to complete: 45 minutes
-
-Start time: 9:30am
-
-Finish time: 11:10am
-
-Actual time needed to complete: 1 hr, 10 min
+* Estimate of time needed to complete: 45 minutes
+* Start time: 9:30am
+* Finish time: 11:10am
+* Actual time needed to complete: 1 hr, 10 min
 
 ### What are we going to implement?
 * Given that a user opens the application in the browser
 * When the user navigates to the home page
-* Then t*he portfolio contents should be displayed
+* Then the portfolio contents should be displayed
 
 ## Feature 2: Modify Contents
 ### Timing
-Estimate of time needed to complete: 1 hour
-
-Start time: 11:25am
-
-Finish time: 1:30pm
-
-Actual time needed to complete: 
+* Estimate of time needed to complete: 1 hour
+* Start time: 11:25am
+* Finish time: 1:25pm
+* Actual time needed to complete: 2 hours + 2 hours another day = 4 hours
 
 ### What are we going to implement?
 * Given that a user opens the application in the browser
