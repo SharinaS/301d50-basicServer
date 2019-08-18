@@ -59,6 +59,7 @@
       #main > section.dark {
         color: #ddd;
         color: rgba(255, 255, 255, 0.75);
+        text-shadow: 2px 2px 4px #000000;
       }
  
         #main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
@@ -68,6 +69,7 @@
         #main > section.dark strong {
           color: #fff;
           border-color: inherit;
+          text-shadow: 2px 2px 4px #000000;
         }
  
         #main > section.dark a {
@@ -87,7 +89,7 @@
  
       #main > section.one {
         background-color: #81918E;
-        background-image: url("../../images/banner.jpg");
+        background-image: url("../../images/sunsetMtn.jpg"); /* Photo by Chad Peltola on Unsplash */
       }
  
       #main > section.two {

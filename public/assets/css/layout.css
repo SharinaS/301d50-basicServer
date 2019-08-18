@@ -44,6 +44,7 @@ input, textarea, select {
  
     header > p {
       margin: 1em 0 0 0;
+      text-shadow: 2px 2px 4px #000000;
     }
  
   footer {
