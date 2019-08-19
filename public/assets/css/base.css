@@ -3,6 +3,16 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
  
 /* Basic */
+
+#videoBG {
+  position: absolute;
+  left: 0;
+  z-index: -1;
+  bottom: 100px;
+  width: 50%;
+  min-height: 110%;
+  min-width: 100%;
+ }
  
   html {
     box-sizing: border-box;
@@ -87,10 +97,13 @@
         background-position: center center;
       }
  
-      #main > section.one {
+      /* Background image  */
+
+      /* #main > section.one {
         background-color: #81918E;
-        background-image: url("../../images/sunsetMtn.jpg"); /* Photo by Chad Peltola on Unsplash */
-      }
+        /* background-image: url("../../images/sunsetMtn.jpg"); Photo by Chad Peltola on Unsplash 
+        background-image: url("../../images/Earth_Zoom_In.mov"); 
+      } */
  
       #main > section.two {
         background-color: #f5fafa;
