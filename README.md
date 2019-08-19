@@ -31,6 +31,13 @@ Sharina Stubbs
 * When the user navigates to the home page
 * Then the content should be unique and reflect the skills and personality of the developer
 
+## Feature 3: Change tablet view to static nav, and add video to top of page
+### Timing
+* Estimate of time needed to complete: 2 hours
+* Start time: 9am
+* Finish time: 11:30am
+* Actual time needed to complete: 2.5 hours
+
 # User Stories
 * As a user, I want the portfolio to have a clean UI so that it is visually appealing.
 * As a user, I want to view a unique portfolio so that the skills and personality of the developer are portrayed.
